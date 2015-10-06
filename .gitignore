@@ -19,3 +19,6 @@ hs_err_pid*
 /outputs
 
 *.zip
+/nbproject/private/
+/build/
+/dist/
